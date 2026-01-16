@@ -1,0 +1,5 @@
+{
+  "name": "SmartStream HD TV",
+  "description": "A high-definition video streaming application designed for Smart TV interfaces, featuring a robust YouTube player and AI-powered recommendations.",
+  "requestFramePermissions": []
+}
